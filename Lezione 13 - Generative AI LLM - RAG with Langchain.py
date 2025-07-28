@@ -71,7 +71,7 @@ vectorstore = Milvus.from_documents(
 
 from langchain_huggingface import HuggingFaceEndpoint
 
-HF_API_KEY = "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"
+HF_API_KEY = ""
 HF_LLM_MODEL_ID = "mistralai/Mistral-7B-Instruct-v0.3"
 
 llm = HuggingFaceEndpoint(
