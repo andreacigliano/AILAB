@@ -21,7 +21,7 @@ import os
 
 # Inizializzazione del client
 client = OpenAI(
-  api_key="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"
+  api_key=""
 )
 
 # ESEMPIO 1: Prompt per analisi del sentimento

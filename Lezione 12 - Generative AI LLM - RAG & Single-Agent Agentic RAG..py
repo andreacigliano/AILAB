@@ -153,7 +153,7 @@ class RAGEngine:
             docs_dir: Directory contenente i documenti
         """
         self.client = OpenAI(
-          api_key="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"
+          api_key=""
         )
 
         self.doc_processor = DocumentProcessor(docs_dir)
