@@ -30,27 +30,27 @@ Utilizzando questo repository, accetti di impiegare il materiale in modo respons
 
 # Code Resources
 
-Regressione Lineare
-Regressione Logistica.
-
-Lezione 3 - Reti Neurali e Deep Learning
-Lezione 4 - Appendimento Non Supervisionato
-Lezione 5 - ELABORAZIONE DEL LINGUAGGIO NATURALE (NLP)
-Lezione 6 - Computer Vision - Real Time Object Detection
-Lezione 7 - Reinforcement Learning - Q-Learning - FrozenLake
-Lezione 7 BIS - Reinforcement Learning
-Lezione 8 - Generative AI - VAE
-Lezione 9 - Generative AI - VAE
-Lezione 10 - Generative AI LLM - parte 1
-Lezione 11 - Generative AI LLM - call API and Prompt Engineering
-Lezione 12 - Generative AI LLM - RAG & Single-Agent Agentic RAG
-Lezione 13 - Generative AI LLM - RAG with Langchain
-Lezione 15 - AI Agentica
+## Regressione Lineare
+## Regressione Logistica.
+## Lezione 3 - Reti Neurali e Deep Learning
+## Lezione 4 - Appendimento Non Supervisionato
+## Lezione 5 - ELABORAZIONE DEL LINGUAGGIO NATURALE (NLP)
+## Lezione 6 - Computer Vision - Real Time Object Detection
+## Lezione 7 - Reinforcement Learning - Q-Learning - FrozenLake
+## Lezione 7 BIS - Reinforcement Learning
+## Lezione 8 - Generative AI - VAE
+## Lezione 9 - Generative AI - VAE
+## Lezione 10 - Generative AI LLM - parte 1
+## Lezione 11 - Generative AI LLM - call API and Prompt Engineering
+## Lezione 12 - Generative AI LLM - RAG & Single-Agent Agentic RAG
+## Lezione 13 - Generative AI LLM - RAG with Langchain
+## Lezione 15 - AI Agentica
 
 # Books Resources
-Resources/aipython.pdf
 
-Python code for Artificial Intelligence
-Foundations of Computational Agents
-David L. Poole and Alan K. Mackworth
-Version 0.9.16 of April 23, 2025.
+## Resources/aipython.pdf
+
+## Python code for Artificial Intelligence
+## Foundations of Computational Agents
+## David L. Poole and Alan K. Mackworth
+## Version 0.9.16 of April 23, 2025.
