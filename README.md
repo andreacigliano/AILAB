@@ -1,8 +1,8 @@
 # AILAB
 # Corso di Laboratorio di Intelligenza Artificiale
 # Prof. Ing. Andrea Cigliano
-# Repository for the AI ​​laboratory course
-# Last update: 2025-08-26
+## Repository for the AI ​​laboratory course
+## Last update: 2025-08-26
 
 ## Disclaimer / Dichiarazione di responsabilità
 
